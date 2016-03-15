@@ -24,6 +24,10 @@
 
 <img alt="配置React-native run-ios/run-android" src="http://image17-c.poco.cn/mypoco/myphoto/20160315/13/17883239120160315135757084.jpg?880x425_120"/>
 
+## ReactNative的webstorm代码智能补全
+
+参考:[reactnative-代码智能提醒-webstorm](http://bbs.reactnative.cn/topic/103/reactnative-代码智能提醒-webstorm)
+
 ## 作者
 
 Chuck 聪
