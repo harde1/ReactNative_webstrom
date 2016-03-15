@@ -28,7 +28,9 @@ b.项目所在路径的变量
 c.完整的设置
 <img alt="配置React-native run-ios/run-android" src="http://image17-c.poco.cn/mypoco/myphoto/20160315/13/17883239120160315135757084.jpg?880x425_120"/>
 
+d.点击横三角，Run
 
+<img alt="配置React-native run-ios/run-android" src="http://image17-c.poco.cn/mypoco/myphoto/20160315/14/17883239120160315143020086.jpg?712x144_120"/>
 
 ## ReactNative的webstorm代码智能补全
 
