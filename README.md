@@ -14,7 +14,7 @@
 
 3.创建External tool
 
-<img alt="3.创建External tool" src="http://image17-c.poco.cn/mypoco/myphoto/20160315/13/17883239120160315132729041.jpg?512x1004_120"/>
+<img alt="3.创建External tool" src="http://image17-c.poco.cn/mypoco/myphoto/20160315/13/17883239120160315135151032.jpg?100x196_120"/>
 
 4.配置React-native run-ios/run-android
 
