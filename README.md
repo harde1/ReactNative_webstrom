@@ -18,11 +18,16 @@
 
 4.配置React-native run-ios/run-android
 
+a.通过命令终端找到React-native命令所在
 <img alt="配置React-native run-ios/run-android" src="http://image17-c.poco.cn/mypoco/myphoto/20160315/13/17883239120160315135719037.jpg?1814x250_120"/>
 
+b.项目所在路径的变量
 <img alt="配置React-native run-ios/run-android" src="http://image17-c.poco.cn/mypoco/myphoto/20160315/13/17883239120160315135741053.jpg?600x432_120"/>
 
+c.完整的设置
 <img alt="配置React-native run-ios/run-android" src="http://image17-c.poco.cn/mypoco/myphoto/20160315/13/17883239120160315135757084.jpg?880x425_120"/>
+
+
 
 ## ReactNative的webstorm代码智能补全
 
